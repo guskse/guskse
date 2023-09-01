@@ -1,7 +1,5 @@
 # Hi there!
 
-<img width="5%" src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" alt="Hi!" />
-
 ### Welcome to my page
 
 <p>
