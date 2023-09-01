@@ -10,7 +10,7 @@
 
 - 🌱 Currently learning JavaScript, nodeJS and React
 
-- Passionate about Technology&Games🎮, Fitness&Nutrition🏃 and Music🎸
+- Passionate about Technology&Games🎮, Exercise🏃 and Music🎸
 
 ### My contacts
 
