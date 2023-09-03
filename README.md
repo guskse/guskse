@@ -20,7 +20,7 @@
 
 
 
-<a href="mailto:gustavocarvalhosantos_@hotmail.com">
+<a href="mailto:xxx">
   <img alt="Gustavo's E-mail" src="https://img.icons8.com/fluent/48/000000/microsoft-outlook-2019.png"/>
 </a>
 
