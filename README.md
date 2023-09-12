@@ -1,9 +1,9 @@
 # Hi there!
 
-### Welcome to my profile
+### Welcome to my profile!
 
 <p>
-  I'm Gustavo, web development student from Manaus, Brazil.
+  I'm Gustavo, a web development student from Manaus, Brazil.
 </p>
 
 ### Personal
