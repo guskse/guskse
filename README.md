@@ -1,16 +1,16 @@
 # Hi there!
 
-### Welcome to my page
+### Welcome to my profile
 
 <p>
-  I'm Gustavo, 27 years old webdev student from Manaus, Brazil.
+  I'm Gustavo, web development student from Manaus, Brazil.
 </p>
 
 ### Personal
 
 - 🌱 Currently learning JavaScript, nodeJS and React
 
-- Passionate about Technology&Games🎮, Exercise🏃 and Music🎸
+- Passionate about Technology,Games🎮, Exercise🏃 and Music🎸
 
 ### My contacts
 
@@ -24,7 +24,7 @@
   <img alt="Gustavo's E-mail" src="https://img.icons8.com/fluent/48/000000/microsoft-outlook-2019.png"/>
 </a>
 
-## My Development Stack
+## My Development Stack Currently
 
 **Front-End**
 
