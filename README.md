@@ -1,7 +1,3 @@
-# Hi there!
-
-### Welcome to my profile!
-
 <p>
   I'm Gustavo, a web development student from Manaus, Brazil.
 </p>
@@ -10,18 +6,10 @@
 
 - 🌱 Currently learning JavaScript, nodeJS and React
 
-- Passionate about Technology,Games🎮, Exercise🏃 and Music🎸
-
 ### My contacts
 
 <a target="_blank" href="https://www.linkedin.com/in/gustavo-carvalho-752b93255/">
   <img alt="Gustavo's linkedin" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-</a>
-
-
-
-<a href="mailto:xxx">
-  <img alt="Gustavo's E-mail" src="https://img.icons8.com/fluent/48/000000/microsoft-outlook-2019.png"/>
 </a>
 
 ## My Development Stack Currently
@@ -59,15 +47,3 @@
 
 <li style="list-style: none; display: flex; width: 40%; justify-content: flex-start; margin-top: 5px;"><code><img width="24px" height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code></code><b style="text-align: center; margin-left: 10px;">Git</b></li>
 </ul>
-
-**Currently Learning**
-
-<ul>
-<li style="list-style: none; display: flex; width: 40%; justify-content: flex-start; margin-top: 5px;"><code><img width="24px" height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code></code><b style="text-align: center; margin-left: 10px;">Node.js</b></li>
-
-<li style="list-style: none; display: flex; width: 40%; justify-content: flex-start; margin-top: 5px;"><code><img width="24px" height="24px" alt="React Native" src="https://img.icons8.com/color/48/000000/react-native.png"/></code><b style="text-align: center; margin-left: 10px;">React</b></li>
-</ul>
-
-<br/>
-
-<br />
