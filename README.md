@@ -25,7 +25,7 @@
 
 <li style="list-style: none; display: flex; width: 40%; justify-content: flex-start; margin-top: 5px;"><code><img width="24px" height="24px" alt="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png"/></code></code><b style="text-align: center; margin-left: 10px;">Bootstrap</b></li>
 
-<li style="list-style: none; display: flex; width: 40%; justify-content: flex-start; margin-top: 5px;"><code><img width="24px" height="24px" alt="Tailwind" src="https://icons8.com/icon/x7XMNGh2vdqA/tailwind-css"/></code></code><b style="text-align: center; margin-left: 10px;">Tailwind</b></li>
+<li style="list-style: none; display: flex; width: 40%; justify-content: flex-start; margin-top: 5px;"><code><img width="24px" height="24px" alt="Tailwind" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"/></code></code><b style="text-align: center; margin-left: 10px;">Tailwind</b></li>
 
 <li style="list-style: none; display: flex; width: 40%; justify-content: flex-start; margin-top: 5px;"><code><img width="24px" height="24px" alt="React Native" src="https://img.icons8.com/color/48/000000/react-native.png"/></code><b style="text-align: center; margin-left: 10px;">React</b></li>
 </ul>
