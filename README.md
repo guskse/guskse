@@ -35,7 +35,7 @@
 <ul>
 <li style="list-style: none; display: flex; width: 40%; justify-content: flex-start; margin-top: 5px;"><code><img width="24px" height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code></code><b style="text-align: center; margin-left: 10px;">Node.js</b></li>
 
-<li style="list-style: none; display: flex; width: 40%; justify-content: flex-start; margin-top: 5px;"><code><img width="24px" height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code></code><b style="text-align: center; margin-left: 10px;">PostgreSQL</b></li>
+<!--<li style="list-style: none; display: flex; width: 40%; justify-content: flex-start; margin-top: 5px;"><code><img width="24px" height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code></code><b style="text-align: center; margin-left: 10px;">PostgreSQL</b></li>-->
 
 <li style="list-style: none; display: flex; width: 40%; justify-content: flex-start; margin-top: 5px;"><code><img width="24px" height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code></code><b style="text-align: center; margin-left: 10px;">MongoDB</b></li>
 
