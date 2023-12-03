@@ -12,6 +12,8 @@
   <img alt="Gustavo's linkedin" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
 
+<a href="https://gcsantos-portfolio.netlify.app/" target="_blank">Check my Portfolio here!</a>
+
 ## My Development Stack Currently
 
 **Front-End**
