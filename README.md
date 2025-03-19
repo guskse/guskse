@@ -1,5 +1,5 @@
 <p>
-  I'm Gustavo, a web development student from Manaus, Brazil.
+  I'm Gustavo, a web developer from Manaus, Brazil.
 </p>
 
 ### Personal
