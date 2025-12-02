@@ -4,7 +4,7 @@
 
 ### Personal
 
-- 🌱 Currently studying Java and Spring/Springboot
+- 🌱 Currently studying Node.js with Typescript and React Native for creating mobile applications
 
 ### My contacts
 
