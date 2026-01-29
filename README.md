@@ -1,67 +1,47 @@
-<h1 align="center">🕶️ GUSTAVO_CARVALHO.exe</h1>
-<h3 align="center">FULL-STACK DEVELOPER // MANAUS_BR // SYSTEM ONLINE</h3>
+<h1 align="center">Hi, I'm Gustavo 👋</h1>
+<h3 align="center">Full-Stack Web Developer · Manaus, Brazil 🇧🇷</h3>
 
 <p align="center">
-  <code>STATUS:</code> ACTIVE ⚡  
-  <code>CLASS:</code> SOFTWARE ENGINEER  
-  <code>SPECIALIZATION:</code> FRONT-END → BACK-END SYSTEMS  
-</p>
-
-<p align="center">
-  <i>Building apps, scalable systems, and high-impact software.</i>
+  I build clean, scalable web applications and enjoy learning modern software architecture.
 </p>
 
 ---
 
-## 🧠 SYSTEM PROFILE
+### 🚀 About Me
+- 💻 Front-End → Full-Stack developer  
+- 🌱 Learning **Node.js (TypeScript)** and **React Native**  
+- 🧠 Interested in **Clean Architecture, APIs, and scalable systems**  
+- 🎮 Exploring game dev with **Godot**
 
-- 🖥️ <b>CORE_LANG:</b> JavaScript, APIs, Clean Architecture
-- 🎨 <b>UI_MODULE:</b> React, Tailwind, UX Systems
-- 🔧 <b>SERVER_CORE:</b> Node.js, Express, PostgreSQL, MySQL, MongoDB
-- 🧬 <b>ACTIVE_PATCH:</b> React + TypeScript
-  
 ---
 
-## 🌐 NET LINKS
-
-<p align="left">
+### 🌐 Links
+<p>
   <a href="https://www.linkedin.com/in/gustavo-carvalho-752b93255/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="28"/>
   </a>
   <a href="https://gcsantos-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio"/>
+    <img src="https://img.icons8.com/color/48/domain.png" width="28"/>
   </a>
 </p>
 
 ---
 
-## ⚙️ LOADOUT
+### 🛠 Tech Stack
 
-### FRONT-END
-![JavaScript](https://img.shields.io/badge/JS-111111?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML-111111?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-111111?style=for-the-badge&logo=tailwind-css)
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
-
-### BACK-END
-![Node.js](https://img.shields.io/badge/Node-111111?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb)
-
-### SYSTEM TOOLS
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
-![NPM](https://img.shields.io/badge/NPM-111111?style=for-the-badge&logo=npm)
+<p>
+  <img src="https://img.icons8.com/color/48/javascript.png" width="32"/>
+  <img src="https://img.icons8.com/color/48/html-5.png" width="32"/>
+  <img src="https://img.icons8.com/color/48/css3.png" width="32"/>
+  <img src="https://img.icons8.com/color/48/tailwindcss.png" width="32"/>
+  <img src="https://img.icons8.com/color/48/react-native.png" width="32"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png" width="32"/>
+  <img src="https://img.icons8.com/color/48/express-js.png" width="32"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" width="32"/>
+  <img src="https://img.icons8.com/color/48/git.png" width="32"/>
+  <img src="https://img.icons8.com/color/48/github.png" width="32"/>
+</p>
 
 ---
 
-## 📡 ACTIVE PROCESSES
-
-- 🔋 LEARNING MODULE: TypeScript backend systems
-- 📱 MOBILE BUILD: React Native apps
-- 🧩 ARCHITECTURE MODE: Clean Architecture, SOLID
-
----
-
-<sub>▌ CONNECTION STABLE ▌ SYSTEM READY ▌ DEPLOYMENT APPROVED ▌</sub>
+✨ *Always learning. Always building.*
