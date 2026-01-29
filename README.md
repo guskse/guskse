@@ -1,51 +1,71 @@
-<p>
-  I'm Gustavo, a web developer from Manaus, Brazil.
+<h1 align="center">Hi 👋, I'm Gustavo Carvalho</h1>
+<h3 align="center">Full-Stack Web Developer from Manaus, Brazil 🇧🇷</h3>
+
+<p align="center">
+  Passionate about building clean, scalable web applications and learning modern software architecture.
 </p>
 
-### Personal
+---
 
-- 🌱 Currently studying Node.js with Typescript and React Native for creating mobile applications
+### 🚀 About Me
 
-### My contacts
+- 💻 Junior Front-End Developer transitioning into Full-Stack
+- 🌱 Currently studying **Node.js with TypeScript** and **React Native**
+- 🧠 Interested in **Clean Architecture, APIs, and scalable systems**
+- 🎯 Goal: Build impactful products and grow as a software engineer
 
-<a target="_blank" href="https://www.linkedin.com/in/gustavo-carvalho-752b93255/">
-  <img alt="Gustavo's linkedin" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-</a>
+---
 
-<a href="https://gcsantos-portfolio.netlify.app/" target="_blank">Check my Portfolio here!</a>
+### 🌐 Connect with Me
 
-## My Development Stack Currently
+<p align="left">
+  <a href="https://www.linkedin.com/in/gustavo-carvalho-752b93255/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://gcsantos-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio"/>
+  </a>
+</p>
 
-**Front-End**
+---
 
-<ul>
-<li style="list-style: none; display: flex; width: 40%; justify-content: flex-start; margin-top: 5px;"><code><img alt="Javascript" src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript" width="24px" height="24px"></code> <b style="text-align: center; margin-left: 10px;">JavaScript</b></li>
+### 🛠 Tech Stack
 
-<li style="list-style: none; display: flex; width: 40%; justify-content: flex-start; margin-top: 5px;"><code><img alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5.png" width="24px" height="24px"/></code><b style="text-align: center; margin-left: 10px;">HTML 5</b></li>
+#### Front-End
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
-<li style="list-style: none; display: flex; width: 40%; justify-content: flex-start; margin-top: 5px;"><code><img alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png" width="24px" height="24px"/></code><b style="text-align: center; margin-left: 10px;">CSS 3</b></li>
+#### Back-End
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
-<li style="list-style: none; display: flex; width: 40%; justify-content: flex-start; margin-top: 5px;"><code><img width="24px" height="24px" alt="Tailwind" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"/></code></code><b style="text-align: center; margin-left: 10px;">Tailwind</b></li>
+#### Tools & Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm)
 
-<li style="list-style: none; display: flex; width: 40%; justify-content: flex-start; margin-top: 5px;"><code><img width="24px" height="24px" alt="React Native" src="https://img.icons8.com/color/48/000000/react-native.png"/></code><b style="text-align: center; margin-left: 10px;">React</b></li>
-</ul>
+---
 
-**Back-End**
+### 📌 Currently Learning
 
-<ul>
-<li style="list-style: none; display: flex; width: 40%; justify-content: flex-start; margin-top: 5px;"><code><img width="24px" height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code></code><b style="text-align: center; margin-left: 10px;">Node.js</b></li>
+- ⚡ TypeScript & scalable backend patterns
+- 📱 React Native mobile apps
+- 🧩 Clean Architecture, SOLID, CQRS
+- 🎮 2D and 3D game dev with Godot
 
-<!--<li style="list-style: none; display: flex; width: 40%; justify-content: flex-start; margin-top: 5px;"><code><img width="24px" height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code></code><b style="text-align: center; margin-left: 10px;">PostgreSQL</b></li>-->
+---
 
-<li style="list-style: none; display: flex; width: 40%; justify-content: flex-start; margin-top: 5px;"><code><img width="24px" height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code></code><b style="text-align: center; margin-left: 10px;">MongoDB</b></li>
+### 📈 GitHub Stats
 
-<li style="list-style: none; display: flex; width: 40%; justify-content: flex-start; margin-top: 5px;"><code><img width="24px" height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express"/></code></code><b style="text-align: center; margin-left: 10px;">Express</b></li>
-</ul>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gcsantos&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gcsantos&theme=tokyonight" height="160"/>
+</p>
 
-**Version Control Systems**
+---
 
-<ul>
-<li style="list-style: none; display: flex; width: 40%; justify-content: flex-start; margin-top: 5px;"><code><img width="24px" height="24px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code></code><b style="text-align: center; margin-left: 10px;">GitHub</b></li>
-
-<li style="list-style: none; display: flex; width: 40%; justify-content: flex-start; margin-top: 5px;"><code><img width="24px" height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code></code><b style="text-align: center; margin-left: 10px;">Git</b></li>
-</ul>
+✨ *Always open to learning, collaboration, and building cool things.*
