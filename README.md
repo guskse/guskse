@@ -22,6 +22,7 @@
   <a href="https://www.linkedin.com/in/gustavo-carvalho-752b93255/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
+  
   <a href="https://gcsantos-portfolio.netlify.app/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio"/>
   </a>
@@ -53,8 +54,8 @@
 ### 📌 Currently Learning
 
 - ⚡ TypeScript & scalable backend patterns
-- 📱 React Native mobile apps
-- 🧩 Clean Architecture, SOLID, CQRS
+- 📱  React Native mobile apps
+- 🧩 Clean Architecture, SOLID
 - 🎮 2D and 3D game dev with Godot
 
 ---
@@ -62,10 +63,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gcsantos&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gcsantos&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gcsantos&show_icons=true&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=gcsantos&theme=github-dark&hide_border=true" height="160" />
 </p>
 
 ---
-
-✨ *Always open to learning, collaboration, and building cool things.*
