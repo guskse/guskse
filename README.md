@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <i>Building low-poly UIs, scalable systems, and high-impact software.</i>
+  <i>Building apps, scalable systems, and high-impact software.</i>
 </p>
 
 ---
@@ -17,8 +17,8 @@
 
 - 🖥️ <b>CORE_LANG:</b> JavaScript, APIs, Clean Architecture
 - 🎨 <b>UI_MODULE:</b> React, Tailwind, UX Systems
-- 🔧 <b>SERVER_CORE:</b> Node.js, Express, MongoDB
-- 🧬 <b>ACTIVE_PATCH:</b> TypeScript + React Native
+- 🔧 <b>SERVER_CORE:</b> Node.js, Express, PostgreSQL, MySQL, MongoDB
+- 🧬 <b>ACTIVE_PATCH:</b> React + TypeScript
   
 ---
 
@@ -58,10 +58,9 @@
 
 ## 📡 ACTIVE PROCESSES
 
-- 🔋 TRAINING MODULE: TypeScript backend systems
+- 🔋 LEARNING MODULE: TypeScript backend systems
 - 📱 MOBILE BUILD: React Native apps
 - 🧩 ARCHITECTURE MODE: Clean Architecture, SOLID
-- 🎮 GAME DEV MODE: PSX-style Godot projects
 
 ---
 
