@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gustavo 👋</h1>
-<h3 align="center">Full-Stack Web Developer · Manaus, Brazil 🇧🇷</h3>
+<h3 align="center">Web Developer · Manaus, Brazil 🇧🇷</h3>
 
 <p align="center">
   I build clean, scalable web applications and enjoy learning modern software architecture.
@@ -15,17 +15,13 @@
 
 ---
 
+
 ### 🌐 Links
-<p>
-  <a href="https://www.linkedin.com/in/gustavo-carvalho-752b93255/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="28"/>
-  </a>
-  <a href="https://gcsantos-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.icons8.com/color/48/domain.png" width="28"/>
-  </a>
-</p>
+- 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-carvalho-752b93255/)
+- 🌍 [Portfolio](https://gcsantos-portfolio.netlify.app/)
 
 ---
+
 
 ### 🛠 Tech Stack
 
@@ -44,4 +40,3 @@
 
 ---
 
-✨ *Always learning. Always building.*
