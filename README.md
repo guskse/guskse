@@ -11,7 +11,6 @@
 - 💻 Front-End → Full-Stack developer  
 - 🌱 Learning **Node.js (TypeScript)** and **React Native**  
 - 🧠 Interested in **Clean Architecture, APIs, and scalable systems**  
-- 🎮 Exploring game dev with **Godot**
 
 ---
 
