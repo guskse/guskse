@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Gustavo 👋</h1>
 <h3 align="center">Web Developer · Manaus, Brazil 🇧🇷</h3>
 
-<p align="center">
-  I build clean, scalable web applications and enjoy learning modern software architecture.
-</p>
-
 ---
 
 ### 🚀 About Me
